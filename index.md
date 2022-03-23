@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Alan Turing
 
-You can use the [editor on GitHub](https://github.com/drexleral/scavenger-case3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Alan_Turing](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/440px-Alan_Turing_Aged_16.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Founder of computer science, mathematician, philosopher, codebreaker, strange visionary
 
-### Markdown
+**Alan Turing**, in full **Alan Mathison Turing**, (born June 23, 1912, London, England—died June 7, 1954, Wilmslow, Cheshire), British mathematician and logician who made major contributions to mathematics, cryptanalysis, logic, philosophy, and mathematical biology and also to the new areas later named computer science, cognitive science, artificial intelligence, and artificial life.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Alan Turing was convicted with gross indecency, British law in a statute of the British Parliament in 1885 and was carried forward in other statutes throughout the British Empire. He accepted hormone treatment with DES, a procedure commonly referred to as chemical castration, as an alternative to prison. In 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated". Queen Elizabeth II granted Turing a posthumous pardon in 2013.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![WorldWar2](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/worldwarii-1637679573.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+During the Second World War, Turing worked for the Government Code and Cypher School (GC&CS) at Bletchley Park, Britain's codebreaking centre that produced Ultra intelligence. For a time he led Hut 8, the section that was responsible for German naval cryptanalysis. Here, he devised a number of techniques for speeding the breaking of German ciphers, including improvements to the pre-war Polish bombe method, an electromechanical machine that could find settings for the Enigma machine. Turing played a crucial role in cracking intercepted coded messages that enabled the Allies to defeat the Axis powers in many crucial engagements, including the Battle of the Atlantic.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+In commemoration of Alan works as codebreaker, decypher this encrypted message:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+updcnuws tc RrfcEeiosvQkknjgZpDuitcxTurefdvxXrtoeij
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drexleral/scavenger-case3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The key in breaking the encrypted message is the factorial of Enigma. And the cipher method is used by Giovan Battista Bellaso, which unfortunately was credited to someone else.
